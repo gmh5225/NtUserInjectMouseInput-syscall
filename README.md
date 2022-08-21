@@ -31,3 +31,5 @@ BOOLEAN WINAPI InjectMouseInputSpoof(mouse::InjectedInputMouseInfo* Struct, int 
 	return (Result > 0); // return the status
 }
 ```
+
+https://www.unknowncheats.me/forum/anti-cheat-bypass/511819-move-mouse.html
